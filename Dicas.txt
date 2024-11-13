@@ -1,0 +1,6 @@
+Vídeo com dicas de pareamento:
+https://www.youtube.com/watch?v=dRysvxQfVDw&t=394s
+
+Repositório com alguns exemplos:
+https://github.com/un0038998/PS4Controller_ESP32/tree/main
+
